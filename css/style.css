@@ -1,0 +1,43 @@
+.hidden {
+    display: none;
+  }
+
+  body {
+    height: 100vh;
+    width: auto;
+    background-repeat : no-repeat center;
+    background-size : cover;
+  }
+
+  h2{
+    position: fixed;
+    top:0;
+    left: 0;
+    right:0;
+  }
+#weather{
+    position: fixed;
+    top:50px;
+}
+  h1{
+    position: fixed;
+    top:50px;
+    
+  }
+
+#login-form {
+    position: fixed;
+    top:100px;
+    
+}
+#todo-form{
+    position: fixed;
+    top:150px;
+    
+}
+
+#todo-list{
+    position: fixed;
+    top:180px;
+    
+}
